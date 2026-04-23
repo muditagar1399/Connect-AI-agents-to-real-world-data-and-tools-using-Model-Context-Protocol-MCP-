@@ -3,7 +3,7 @@ import requests
 
 app = FastAPI()
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "b1b87699e0ec89e0efbc2f34092bb1d1"
 
 @app.get("/")
 def home():
